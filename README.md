@@ -1,0 +1,11 @@
+vertex/
+├── README.md
+├── sql/
+│   ├── DDL_vertex.sql
+│   └── DML_vertex.sql
+├── notebooks/
+│   └── extracao_bigquery.ipynb
+├── docs/
+│   ├── evidencias_importacao.pdf
+│   └── pitch_vertex.pdf
+└── docs/imagens/
